@@ -1,0 +1,93 @@
+body {
+    background-color: rgba(0,0,0);
+}
+.splash {
+    background-image:url('/images/33.jpg');
+    max-width: 80vw;  
+    padding: 20px 0;
+    margin: 0 auto;
+    height: 60vh;
+    
+}
+.splash a {
+    text-decoration: none;
+    color:white; 
+    font-weight: 500;
+}
+.splash span {
+    color: gold;
+    font-size: 24px;
+    letter-spacing: 1;
+    font-family: 'Pacifico', cursive;
+}
+
+.inner-text {
+    padding-top: 10vh;
+    text-align: center;
+    color: white;
+}
+
+.inner-text button {
+    margin-top: 3vh;
+    height: 65px;
+    width: 150px
+    
+}
+
+.meet p {
+   
+    font-size: 55px;
+    font-weight: 600;
+    letter-spacing: 0.9;
+}
+
+.services {
+    background-color: white;
+    max-width: 80vw;  
+    padding: 20px 0;
+    margin: 0 auto;
+    height: 50vh;
+
+}
+
+.service-text {
+    padding-top: 5vh;
+    padding-bottom: 8vh;
+    text-align: center;
+}
+
+.bi .i-browser-chrome{
+
+    color: yellow;
+    font-size: 30px;
+
+}
+
+footer {
+
+    background-color: white;
+    max-width: 80vw;  
+    padding: 20px 0;
+    margin: 0 auto;
+    height: 10vh;
+    
+
+}
+footer div  {
+    text-align: center;
+}
+
+footer .wm {
+    display: inline-block;
+    padding-right: 10vw;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+   
+}
+footer i {
+    font-size: 30px;
+    padding-right: 2px;
+}
+
+/*# sourceMappin
+gURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzdHlsZS5jc3MifQ== */
