@@ -23,6 +23,7 @@ body {
 
 .inner-text {
     padding-top: 10vh;
+    padding-bottom: 5vh;
     text-align: center;
     color: white;
 }
@@ -73,6 +74,28 @@ footer {
     
 
 }
+
+.portfolio{
+    background-color: rgba(255, 255, 255, 0.938);
+    max-width: 80vw;  
+    padding: 20px 0;
+    margin: 0 auto;
+    height: 140vh;
+
+}
+
+.portfolio h1 {
+    color: black;
+    font-weight: 800;
+}
+
+.portfolio p {
+    color: gray;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+
 footer div  {
     text-align: center;
 }
@@ -84,6 +107,7 @@ footer .wm {
     font-family: 'Roboto', sans-serif;
    
 }
+
 footer i {
     font-size: 30px;
     padding-right: 2px;
