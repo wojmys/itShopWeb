@@ -113,5 +113,21 @@ footer i {
     padding-right: 2px;
 }
 
+@media (max-width: 416px){
+    
+    
+    .portfolio {
+        background-color: rgba(255, 255, 255, 0.938);
+        max-width: 80vw;  
+        padding: 20px 0;
+        margin: 0 auto;
+        height: 145vh;
+
+}
+   
+
+}
+
+
 /*# sourceMappin
 gURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzdHlsZS5jc3MifQ== */
