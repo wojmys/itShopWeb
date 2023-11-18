@@ -57,7 +57,7 @@ body {
     text-align: center;
 }
 
-.bi .i-browser-chrome{
+.bi .i-browser-chrome {
 
     color: yellow;
     font-size: 30px;
@@ -75,7 +75,7 @@ footer {
 
 }
 
-.portfolio{
+.portfolio {
     background-color: rgba(255, 255, 255, 0.938);
     max-width: 80vw;  
     padding: 20px 0;
